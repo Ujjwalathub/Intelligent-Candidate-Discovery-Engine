@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0098454,1,0.6147,AI Specialist with 6.6 years of experience in AI/ML.
+CAND_0046525,2,0.6118,Senior Machine Learning Engineer with 6.1 years of experience in AI/ML.
+CAND_0007009,3,0.6031,Recommendation Systems Engineer with 7.9 years of experience in AI/ML.
+CAND_0071974,4,0.6016,Senior AI Engineer with 7.8 years of experience in AI/ML.
+CAND_0036184,5,0.6012,Recommendation Systems Engineer with 6.0 years of experience in AI/ML.
+CAND_0016317,6,0.5992,Project Manager with 6.5 years of experience in AI/ML.
+CAND_0052682,7,0.5983,NLP Engineer with 6.6 years of experience in AI/ML.
+CAND_0017955,8,0.5983,Project Manager with 11.3 years of experience in AI/ML.
+CAND_0000031,9,0.5980,Recommendation Systems Engineer with 6.0 years of experience in AI/ML.
+CAND_0047360,10,0.5976,Senior Data Engineer with 7.2 years of experience in AI/ML.
+CAND_0051615,11,0.5968,Search Engineer with 4.6 years of experience in AI/ML.
+CAND_0086022,12,0.5949,Senior Applied Scientist with 5.3 years of experience in AI/ML.
+CAND_0093193,13,0.5940,Senior Machine Learning Engineer with 7.9 years of experience in AI/ML.
+CAND_0095619,14,0.5938,NLP Engineer with 15.6 years of experience in AI/ML.
+CAND_0014439,15,0.5921,Civil Engineer with 2.2 years of experience in AI/ML.
+CAND_0007567,16,0.5915,AI Specialist with 6.1 years of experience in AI/ML.
+CAND_0037944,17,0.5883,Senior Data Scientist with 4.9 years of experience in AI/ML.
+CAND_0071939,18,0.5866,Data Scientist with 6.4 years of experience in AI/ML.
+CAND_0053695,19,0.5863,Recommendation Systems Engineer with 5.8 years of experience in AI/ML.
+CAND_0055992,20,0.5860,AI Engineer with 16.9 years of experience in AI/ML.
+CAND_0016659,21,0.5852,ML Engineer with 4.4 years of experience in AI/ML.
+CAND_0077285,22,0.5851,Recommendation Systems Engineer with 5.5 years of experience in AI/ML.
+CAND_0020350,23,0.5844,AI Engineer with 5.8 years of experience in AI/ML.
+CAND_0011687,24,0.5829,Senior NLP Engineer with 7.8 years of experience in AI/ML.
+CAND_0077337,25,0.5824,Staff Machine Learning Engineer with 7.0 years of experience in AI/ML.
+CAND_0051003,26,0.5821,Senior Software Engineer (ML) with 4.0 years of experience in AI/ML.
+CAND_0068513,27,0.5809,Computer Vision Engineer with 4.0 years of experience in AI/ML.
+CAND_0020708,28,0.5804,Search Engineer with 4.2 years of experience in AI/ML.
+CAND_0047542,29,0.5791,Senior Software Engineer (ML) with 5.0 years of experience in AI/ML.
+CAND_0073982,30,0.5773,Data Scientist with 7.0 years of experience in AI/ML.
+CAND_0002025,31,0.5772,Senior AI Engineer with 5.9 years of experience in AI/ML.
+CAND_0037980,32,0.5761,Senior Applied Scientist with 9.0 years of experience in AI/ML.
+CAND_0090694,33,0.5752,Project Manager with 14.4 years of experience in AI/ML.
+CAND_0092255,34,0.5750,ML Engineer with 5.2 years of experience in AI/ML.
+CAND_0077498,35,0.5749,Senior Software Engineer (ML) with 5.4 years of experience in AI/ML.
+CAND_0019783,36,0.5745,Civil Engineer with 13.2 years of experience in AI/ML.
+CAND_0073007,37,0.5744,AI Specialist with 5.8 years of experience in AI/ML.
+CAND_0013393,38,0.5739,ML Engineer with 5.3 years of experience in AI/ML.
+CAND_0022870,39,0.5736,AI Specialist with 6.7 years of experience in AI/ML.
+CAND_0096823,40,0.5735,Data Scientist with 4.4 years of experience in AI/ML.
+CAND_0017590,41,0.5732,AI Research Engineer with 5.1 years of experience in AI/ML.
+CAND_0070072,42,0.5730,Project Manager with 2.4 years of experience in AI/ML.
+CAND_0059145,43,0.5718,Analytics Engineer with 7.9 years of experience in AI/ML.
+CAND_0015823,44,0.5709,Civil Engineer with 6.6 years of experience in AI/ML.
+CAND_0015478,45,0.5707,ML Engineer with 3.6 years of experience in AI/ML.
+CAND_0092245,46,0.5702,Senior Data Scientist with 4.1 years of experience in AI/ML.
+CAND_0081846,47,0.5701,Lead AI Engineer with 6.7 years of experience in AI/ML.
+CAND_0052335,48,0.5697,Applied ML Engineer with 6.4 years of experience in AI/ML.
+CAND_0099806,49,0.5692,AI Engineer with 4.6 years of experience in AI/ML.
+CAND_0052195,50,0.5686,Computer Vision Engineer with 6.3 years of experience in AI/ML.
+CAND_0006567,51,0.5682,Senior AI Engineer with 7.9 years of experience in AI/ML.
+CAND_0072660,52,0.5681,Machine Learning Engineer with 7.1 years of experience in AI/ML.
+CAND_0094916,53,0.5675,Junior ML Engineer with 3.7 years of experience in AI/ML.
+CAND_0063622,54,0.5671,Computer Vision Engineer with 5.2 years of experience in AI/ML.
+CAND_0002120,55,0.5670,ML Engineer with 6.5 years of experience in AI/ML.
+CAND_0004402,56,0.5665,AI Research Engineer with 6.0 years of experience in AI/ML.
+CAND_0068811,57,0.5664,Applied ML Engineer with 8.0 years of experience in AI/ML.
+CAND_0067866,58,0.5657,Senior Software Engineer (ML) with 6.4 years of experience in AI/ML.
+CAND_0027691,59,0.5652,NLP Engineer with 6.5 years of experience in AI/ML.
+CAND_0066999,60,0.5645,Recommendation Systems Engineer with 5.9 years of experience in AI/ML.
+CAND_0092182,61,0.5641,Project Manager with 8.0 years of experience in AI/ML.
+CAND_0077798,62,0.5641,Software Engineer with 8.0 years of experience in AI/ML.
+CAND_0078262,63,0.5638,ML Engineer with 4.9 years of experience in AI/ML.
+CAND_0076482,64,0.5638,ML Engineer with 6.6 years of experience in AI/ML.
+CAND_0053591,65,0.5635,AI Engineer with 5.3 years of experience in AI/ML.
+CAND_0064888,66,0.5632,ML Engineer with 5.8 years of experience in AI/ML.
+CAND_0020712,67,0.5630,Data Analyst with 4.9 years of experience in AI/ML.
+CAND_0005516,68,0.5626,Senior Software Engineer with 2.4 years of experience in AI/ML.
+CAND_0066690,69,0.5626,ML Engineer with 4.8 years of experience in AI/ML.
+CAND_0041669,70,0.5625,Recommendation Systems Engineer with 8.0 years of experience in AI/ML.
+CAND_0084090,71,0.5623,Junior ML Engineer with 3.9 years of experience in AI/ML.
+CAND_0012837,72,0.5607,Junior ML Engineer with 6.4 years of experience in AI/ML.
+CAND_0022415,73,0.5603,AI Research Engineer with 3.2 years of experience in AI/ML.
+CAND_0048558,74,0.5600,Data Scientist with 6.7 years of experience in AI/ML.
+CAND_0018246,75,0.5595,ML Engineer with 4.7 years of experience in AI/ML.
+CAND_0067183,76,0.5592,ML Engineer with 6.1 years of experience in AI/ML.
+CAND_0075753,77,0.5590,Data Engineer with 2.1 years of experience in AI/ML.
+CAND_0018094,78,0.5587,ML Engineer with 5.2 years of experience in AI/ML.
+CAND_0066035,79,0.5585,Data Scientist with 6.7 years of experience in AI/ML.
+CAND_0082407,80,0.5583,Civil Engineer with 14.7 years of experience in AI/ML.
+CAND_0049120,81,0.5580,Project Manager with 7.4 years of experience in AI/ML.
+CAND_0064780,82,0.5580,Project Manager with 7.0 years of experience in AI/ML.
+CAND_0030348,83,0.5578,Machine Learning Engineer with 4.5 years of experience in AI/ML.
+CAND_0039754,84,0.5576,Senior Applied Scientist with 16.2 years of experience in AI/ML.
+CAND_0030468,85,0.5576,Senior Applied Scientist with 5.4 years of experience in AI/ML.
+CAND_0044428,86,0.5573,Data Scientist with 4.1 years of experience in AI/ML.
+CAND_0061257,87,0.5565,Staff Machine Learning Engineer with 8.0 years of experience in AI/ML.
+CAND_0066787,88,0.5565,Software Engineer with 7.0 years of experience in AI/ML.
+CAND_0049668,89,0.5557,Data Analyst with 6.7 years of experience in AI/ML.
+CAND_0043240,90,0.5557,Backend Engineer with 6.6 years of experience in AI/ML.
+CAND_0029449,91,0.5554,ML Engineer with 4.3 years of experience in AI/ML.
+CAND_0003575,92,0.5549,Data Scientist with 3.7 years of experience in AI/ML.
+CAND_0042429,93,0.5544,Civil Engineer with 12.5 years of experience in AI/ML.
+CAND_0045381,94,0.5541,Analytics Engineer with 2.1 years of experience in AI/ML.
+CAND_0051292,95,0.5540,Applied ML Engineer with 5.2 years of experience in AI/ML.
+CAND_0087744,96,0.5540,Senior Software Engineer (ML) with 3.9 years of experience in AI/ML.
+CAND_0037461,97,0.5539,Full Stack Developer with 1.1 years of experience in AI/ML.
+CAND_0049540,98,0.5537,ML Engineer with 6.8 years of experience in AI/ML.
+CAND_0012840,99,0.5536,Junior ML Engineer with 3.7 years of experience in AI/ML.
+CAND_0078397,100,0.5536,Project Manager with 8.7 years of experience in AI/ML.
