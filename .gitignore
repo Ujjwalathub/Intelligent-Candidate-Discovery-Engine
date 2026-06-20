@@ -1,0 +1,17 @@
+Ignore the data directory and all JSONL files
+
+[PUB] India_runs_data_and_ai_challenge/
+*.jsonl
+
+Python artifacts
+
+pycache/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+OS generated files
+
+.DS_Store
+Thumbs.db
